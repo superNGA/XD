@@ -1,0 +1,55 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (ImGui DirectX 11 Kiero Hook.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Vector.cpp
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\SRC\Math\Vector.cpp(51,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\SRC\Math\Vector.cpp(52,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  global.cpp
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\SRC\Storage\global.cpp(63,40): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  AIMBOT THREAD.cpp
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\SRC\Memory\Memory.h(30,62): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  (compiling source file 'SRC/Threads/AIMBOT%20THREAD.cpp')
+  
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\SRC\Memory\Memory.h(53,71): warning C4244: 'argument': conversion from 'const uintptr_t' to 'DWORD', possible loss of data
+  (compiling source file 'SRC/Threads/AIMBOT%20THREAD.cpp')
+  
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\SRC\Threads\AIMBOT THREAD.cpp(21,50): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\SRC\Threads\AIMBOT THREAD.cpp(21,50): warning C4244:         with
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\SRC\Threads\AIMBOT THREAD.cpp(21,50): warning C4244:         [
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\SRC\Threads\AIMBOT THREAD.cpp(21,50): warning C4244:             _Ty=float
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\SRC\Threads\AIMBOT THREAD.cpp(21,50): warning C4244:         ]
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\SRC\Threads\AIMBOT THREAD.cpp(63,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\SRC\Threads\AIMBOT THREAD.cpp(122,65): warning C4244: '*=': conversion from '_Ty' to 'float', possible loss of data
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\SRC\Threads\AIMBOT THREAD.cpp(122,65): warning C4244:         with
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\SRC\Threads\AIMBOT THREAD.cpp(122,65): warning C4244:         [
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\SRC\Threads\AIMBOT THREAD.cpp(122,65): warning C4244:             _Ty=DOUBLE
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\SRC\Threads\AIMBOT THREAD.cpp(122,65): warning C4244:         ]
+  ENEMY THREAD.cpp
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\SRC\Memory\Memory.h(30,62): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  (compiling source file 'SRC/Threads/ENEMY%20THREAD.cpp')
+  
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\SRC\Memory\Memory.h(53,71): warning C4244: 'argument': conversion from 'const uintptr_t' to 'DWORD', possible loss of data
+  (compiling source file 'SRC/Threads/ENEMY%20THREAD.cpp')
+  
+  MISC THREAD.cpp
+  main.cpp
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\SRC\Memory\Memory.h(30,62): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\SRC\Memory\Memory.h(53,71): warning C4244: 'argument': conversion from 'const uintptr_t' to 'DWORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\main.cpp(42,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\main.cpp(42,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\main.cpp(320,54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\main.cpp(321,55): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\main.cpp(322,75): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\main.cpp(323,76): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\main.cpp(409,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\main.cpp(409,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\main.cpp(414,104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PROJECTS\Cheat Menu\ImGui DirectX 11 Kiero Hook\main.cpp(414,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  5 of 1424 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    17 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ImGui DirectX 11 Kiero Hook.vcxproj -> D:\PROJECTS\Cheat Menu\x64\Release\XD.dll
