@@ -4,3 +4,5 @@
 ![2.](IMAGES/sample2.png)
 ![3.](IMAGES/sample3.png)
 ![4.](IMAGES/sample4.png)
+***
+You gotta update offsets yourself, use a2x 
